@@ -1,0 +1,1 @@
+A library for using Memcached as a repository for all objects stored in session.
